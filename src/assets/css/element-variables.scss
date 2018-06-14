@@ -1,0 +1,15 @@
+
+$--color-primary: #3D82F7;
+
+$--font-path: '../node_modules/element-ui/lib/theme-chalk/fonts';
+
+@import "../../../node_modules/element-ui/packages/theme-chalk/src/index";
+
+.el-button{
+  padding: 10px 20px;
+}
+.el-button--ghost{
+  color: #fff;
+  background-color: transparent;
+}
+
