@@ -27,5 +27,6 @@ export const cardType = {
   '8': '企业营业执照',
   '9': '法人代码证',
   '10': 'git测试----',
-  '11': 'gggggg'
+  '11': 'gggggg',
+  '12': 'yyyyyyyy'
 }
